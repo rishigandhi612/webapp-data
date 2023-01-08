@@ -1,0 +1,14 @@
+[{
+    title: "Search Github User",
+    decsription: "Enter Github username and see the magic.",
+    link: "https://gandhirishi123.github.io/searchgithubuser/"
+}, {
+    title: "Github Users",
+    decsription: "Fetching Github API's,navbar and implementing loaders and using bootstrap.",
+    link: "https://gandhirishi123.github.io/bootstrapgithubapi/"
+},
+{
+    title: "School Marklist display",
+    decsription: "Enter student's marks and display in a table form.",
+    link: "https://gandhirishi123.github.io/Takemarksanddisplay/"
+}]
