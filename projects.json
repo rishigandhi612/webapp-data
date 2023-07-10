@@ -1,17 +1,17 @@
 [
-  {
-    "title": "Search Github User",
-    "decsription": "Enter Github username and see the magic.",
-    "link": "https://gandhirishi123.github.io/searchgithubuser/"
-  },
-  {
-    "title": "Github Users Profile",
-    "decsription": "Fetching Github API's,navbar and implementing loaders and using bootstrap.",
-    "link": "https://gandhirishi123.github.io/bootstrapgithubapi/"
-  },
-  {
-    "title": "School Marklist display",
-    "decsription": "Enter student's marks and display in a table form.",
-    "link": "https://gandhirishi123.github.io/Takemarksanddisplay/"
-  }
-]
+    {
+        "title":"Create A Logistics document",
+        "decsription":"Created a solution for local business which helped them create their delivery note by taking dynamic input",
+        "link":"https://gandhirishi123.github.io/challan/"
+    },
+    {
+        "title":"Todo App",
+        "decsription":"Create and Delete your Todos. This App was built using VUE.js",
+        "link":"https://todo.rishigandhi.xyz/#/"
+    },
+    {
+        "title": "Search Github User",
+        "decsription": "Enter Github username and see the magic.",
+        "link": "https://gandhirishi123.github.io/searchgithubuser/"
+    }
+  ]
